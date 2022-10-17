@@ -7,6 +7,7 @@ This fitment device is to be worn over an N95 mask, and improves the fitment of 
 # Images
 
 Sample use case of Fitra over a comercial mask
+
 ![Sample use case of Fitra over a mask](./images/useCase.png)
 
 
